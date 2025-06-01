@@ -1,5 +1,8 @@
 # Implementation of the theoretical equations in my thesis
-
+#
+# Author: Christian Aaris Lærkedahl Ørnskov
+# Thesis: Reinsurance Premium Estimation using Wang Distortion
+#
 # Simulating data from the Burr distribution
 # The comparison with the original rburr function seems to be shape1 = lambda, 
 # shape2 = tau and scale = alpha^(1 / tau).

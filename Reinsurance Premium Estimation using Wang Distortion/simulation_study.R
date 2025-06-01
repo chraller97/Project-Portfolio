@@ -1,4 +1,8 @@
 # Simulation study for my thesis
+#
+# Author: Christian Aaris Lærkedahl Ørnskov
+# Thesis: Reinsurance Premium Estimation using Wang Distortion
+#
 # Preliminary setup
 library(tidyverse)
 library(evd)
@@ -8,12 +12,6 @@ source("theoretical_equations.R")
 
 theme_set(theme_grey(base_family = "serif"))
 options(scipen = 999)
-
-# Check code for mistakes.
-# Bias from many sources.
-# Alternate methods for bias reduction.
-# E[X^beta | X > U(1/p)]
-
 
 # -------------------- Simulation Setup ----------------------------------------
 ## Define the design parameters 
