@@ -1,0 +1,2 @@
+# DiscGolfStatsStarubyskov
+DiscGolf Tournament Statistics

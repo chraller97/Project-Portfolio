@@ -1,0 +1,11 @@
+division,name,card,round_relative_score,round_total_score,hole_1,hole_2,hole_3,hole_4,hole_4½,hole_5,hole_6,hole_6½,hole_7,hole_8,hole_9,hole_10,hole_11,hole_12
+Match,Player_4,1,-1,41,3,3,2,3,3,4,3,3,3,2,3,3,3,3
+Match,Player_15,2,0,42,3,3,3,2,5,3,3,2,3,3,3,3,3,3
+Match,Player_20,3,1,43,3,3,3,4,3,3,3,3,4,2,3,3,3,3
+Match,Player_11,2,3,45,3,4,3,3,3,3,3,3,6,2,3,3,3,3
+Match,Player_34,1,5,47,3,4,3,3,4,3,3,3,3,4,3,5,3,3
+Match,Player_31,2,6,48,3,3,3,3,4,4,5,3,3,3,3,4,3,4
+Match,Player_22,3,6,48,3,3,4,4,5,4,3,3,3,3,3,4,3,3
+Match,Player_17,3,9,51,4,4,4,3,7,4,3,4,4,2,2,3,4,3
+Match,Player_19,1,11,53,4,3,4,6,4,4,4,4,3,2,4,4,4,3
+Match,Player_5,2,13,55,4,3,3,4,5,5,4,5,3,4,3,5,4,3
