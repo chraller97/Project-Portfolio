@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# PyCharm metadata
+*.iml
+.idea/
+modules.xml
+profile_settings.xml
+Project_default.xml
+vcs.xml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs and pickles
+*.log
+*.pkl
+
+# Raw data (keep only anonymized)
+*.xlsx
+*.csv
+.venv/Lib
